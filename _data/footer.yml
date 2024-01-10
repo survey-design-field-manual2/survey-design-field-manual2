@@ -1,0 +1,10 @@
+# Footer navigation links
+- title: "Sign up to Mailing List"
+  url: https://forms.gle/8qT4dAEkNQ7odiLV7
+  icon: fa fa-user-plus
+- title: "Give feedback"
+  url: https://forms.gle/RNn1nCgQiU61UbeA6
+  icon: fa fa-comments
+- title: "Download Manual"
+  url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual_V2.pdf
+  icon: fa fa-download
